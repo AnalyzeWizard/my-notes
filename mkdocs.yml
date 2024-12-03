@@ -1,0 +1,3 @@
+site_name: My Notes
+nav:
+  - Home: index.md
